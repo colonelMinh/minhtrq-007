@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++, Python and JavScript
 - 💞️ I’m addicted to reading manga and watching anime.
 - 📫 Connect with me at:+) tranquangminhduclap@gmail.com
-                        +)facebook.com/minhtrq_007
+                        +) facebook.com/minhtrq_007
 
 <!---
 minhtrq-007/minhtrq-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
